@@ -56,7 +56,7 @@ The following example HTML document will create a slider that can be controlled 
 </body>
 </html>
 ```
-The example first includes the library from our CDN, then a structure of two frames inside a single stage with `width:100%`and `height:500px` is defined. This becomes the slider. Below that to links are included that link to `#frame1` and `#frame2` which will trigger transitions to frame1 and frame2, respectively.
+The example first includes the library from our CDN, then a structure of two frames inside a single stage with `width:100%`and `height:500px` is defined. This becomes the slider. Below that two links are included that link to `#frame1` and `#frame2` which will trigger transitions to frame1 and frame2, respectively.
 In the last part the library is actually initialized using `layerJS.init()`.
 
 ## Issues, bug reports and feature requests ##
